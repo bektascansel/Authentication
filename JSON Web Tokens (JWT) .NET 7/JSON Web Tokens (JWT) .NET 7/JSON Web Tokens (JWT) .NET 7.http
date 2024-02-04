@@ -1,0 +1,6 @@
+@JSON_Web_Tokens__JWT__.NET_7_HostAddress = http://localhost:5011
+
+GET {{JSON_Web_Tokens__JWT__.NET_7_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

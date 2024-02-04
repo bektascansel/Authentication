@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8CtCFoADwXCeOUIJop6vOfPPjdJhOLOsZGrS9XFKSMo=",
+  "Source": "JSON Web Tokens (JWT) .NET 7",
+  "BasePath": "_content/JSON Web Tokens (JWT) .NET 7",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
