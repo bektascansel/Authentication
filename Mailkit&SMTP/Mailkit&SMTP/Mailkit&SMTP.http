@@ -1,0 +1,6 @@
+@Mailkit_SMTP_HostAddress = http://localhost:5199
+
+GET {{Mailkit_SMTP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

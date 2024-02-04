@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yOA481qAQVdastaMzjWZGVEZP2u1tvMYTxY/bLmvQGA=",
+  "Source": "Mailkit&SMTP",
+  "BasePath": "_content/Mailkit&SMTP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
